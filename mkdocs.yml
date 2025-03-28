@@ -1,0 +1,4 @@
+site_name: JackCao
+nav:
+  - Home: index.md
+  - Blog: blog.md
