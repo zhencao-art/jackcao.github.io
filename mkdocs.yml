@@ -2,4 +2,6 @@ site_name: JackCao
 theme: simple-blog
 nav:
   - Home: index.md
-  - Blog: blog.md
+  - Contacts: contacts.md
+  - Blog:
+    - Consistent model in distributed system: blog/consistent-model-in-distributed-system.md
