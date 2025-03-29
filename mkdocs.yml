@@ -1,4 +1,5 @@
 site_name: JackCao
+theme: simple-blog
 nav:
   - Home: index.md
   - Blog: blog.md

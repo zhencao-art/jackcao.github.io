@@ -1,4 +1,5 @@
 .DS_Store
+.obsidian/
 docs/.DS_Store
 docs/.obsidian
 site

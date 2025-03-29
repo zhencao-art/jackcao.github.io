@@ -1,4 +1,3 @@
-## Home
 ![homepage](asserts/homepage.jpeg)
 
 欢迎来到我的网站！
